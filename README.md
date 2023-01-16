@@ -1,4 +1,4 @@
-# tailwind-deneme
+# Spotify Clone
 
 ## Project setup
 ```
